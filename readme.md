@@ -10,4 +10,4 @@ I learned to set up a screen, draw objects to it and implement simple player con
 
 The game does not have multiple screens yet and also there are no winning or losing conditions. So it is an endless endeavour.
 
-I created a [JAR](FirstLibGDXGame.jar) to give it a try. Just right-click it and save the JAR to your computer.
+I created a [JAR](FirstLibGDXGame.jar) for you to give it a try. Just jump to it and download it to your computer.
