@@ -3,7 +3,6 @@ package com.firstgame.desktop;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.firstgame.Drop;
-import com.firstgame.MyGdxGame;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
